@@ -37,7 +37,7 @@ A Nintendo 3DS Shared Font
 * [24px]
   * [Mod]
     * [cbf_std.bcfnt](https://cdn.jsdelivr.net/gh/rcyggdra/Shared-Font/24px/Mod/cbf_std.bcfnt)
-    * [shared_font.bin](https://cdn.jsdelivr.net/gh/rcyggdra/Shared-Font//Mod/shared_font.bin)
+    * [shared_font.bin](https://cdn.jsdelivr.net/gh/rcyggdra/Shared-Font/24px/Mod/shared_font.bin)
   * [SP]
     * [cbf_std.bcfnt](https://cdn.jsdelivr.net/gh/rcyggdra/Shared-Font/24px/SP/cbf_std.bcfnt)
     * [shared_font.bin](https://cdn.jsdelivr.net/gh/rcyggdra/Shared-Font/24px/SP/shared_font.bin)
