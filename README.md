@@ -23,7 +23,7 @@ A Nintendo 3DS Shared Font
 
 - 字符缺失：不完全包含日版字库的汉字，所以机战UX/BX这类的有可能缺字；繁中系统确定会缺字、eshop等未知
 
-- 适用环境：简中系统；使用系统字库的汉化游戏；citra模拟器推荐使用
+- 适用环境：简中系统、ActionReplay插件可显示汉字；使用系统字库的汉化游戏；citra模拟器推荐使用
 
 # jsDelivr CDN 加速下载
 * [21px]
