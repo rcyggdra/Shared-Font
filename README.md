@@ -5,6 +5,8 @@ A Nintendo 3DS Shared Font
 
 下文提及的简中、繁中系统均为贴吧[@F君](https://tieba.baidu.com/home/main/?un=VCMOD55)制作的3DS日版机简繁系统补丁
 
+[@heiyu](https://tieba.baidu.com/home/main?un=%E6%96%87%E5%AD%97%E6%80%AA%E7%89%A9)制作的系统字库切换工具包含在内，详细请前往https://tieba.baidu.com/p/7388661257
+
 # 21px
 - 字库规格：选择贴近日版字库的黑体字形，因大小限制而调整到21px
 
