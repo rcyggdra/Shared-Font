@@ -3,9 +3,9 @@ A Nintendo 3DS Shared Font
 
 适合简体中文汉化游戏使用的混合字库（shared_font.bin、cbf_std.bcfnt）
 
-下文提及的简中、繁中系统均为贴吧[@F君](https://tieba.baidu.com/home/main/?un=VCMOD55)制作的3DS日版机简繁系统补丁
+下文提及的简中、繁中系统均为贴吧@F君制作的3DS日版机简繁系统补丁
 
-[@heiyu](https://tieba.baidu.com/home/main?un=%E6%96%87%E5%AD%97%E6%80%AA%E7%89%A9)制作的系统字库切换工具包含在内，详细请前往https://tieba.baidu.com/p/7388661257
+@heiyu制作的系统字库切换工具包含在内，详细请前往https://tieba.baidu.com/f?kw=3ds破解&ie=utf-8
 
 # 21px
 - 字库规格：选择贴近日版字库的黑体字形，因大小限制而调整到21px
@@ -23,7 +23,7 @@ A Nintendo 3DS Shared Font
 
 - 字库不同：Mod版使用简中字形，SP采用日系字形
 
-- 字符缺失：不完全包含日版字库的汉字，所以机战UX/BX这类的有可能缺字；繁中系统确定会缺字、eshop等未知
+- 字符缺失：不完全包含日版字库的汉字，所以日版游戏有可能会缺字（汉化版不影响）；繁中系统确定会缺字、eshop等未知
 
 - 适用环境：简中系统、ActionReplay插件可显示汉字；使用系统字库的汉化游戏；citra模拟器推荐使用
 
