@@ -1,4 +1,4 @@
-xxd -s 0x0b -p -l 3 %1 >%~n1_size.txt
+xxd -s 0x0c -p -l 3 %1 >%~n1_size.txt
 xxd %1| xxd -r -s 0x80 > shared_font.bin
 echo 00: 02 | xxd -r - shared_font.bin
 echo 04: 01 | xxd -r - shared_font.bin
