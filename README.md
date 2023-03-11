@@ -5,7 +5,7 @@ A Nintendo 3DS Shared Font
 
 下文提及的简中、繁中系统均为贴吧@F君制作的3DS日版机简繁系统补丁
 
-@heiyu制作的系统字库切换工具包含在内，详细请前往https://tieba.baidu.com/f?kw=3ds破解&ie=utf-8
+可使用中文系统提供的字体更换注入新的字体到系统里
 
 # 21px
 - 字库规格：选择贴近日版字库的黑体字形，因大小限制而调整到21px
@@ -26,20 +26,3 @@ A Nintendo 3DS Shared Font
 - 字符缺失：不完全包含日版字库的汉字，所以日版游戏有可能会缺字（汉化版不影响）；繁中系统确定会缺字、eshop等未知
 
 - 适用环境：简中系统、ActionReplay插件可显示汉字；使用系统字库的汉化游戏；citra模拟器推荐使用
-
-# jsDelivr CDN 加速下载
-* [21px]
-  * [Mod]
-    * [cbf_std.bcfnt](https://cdn.jsdelivr.net/gh/rcyggdra/Shared-Font/21px/Mod/cbf_std.bcfnt)
-    * [shared_font.bin](https://cdn.jsdelivr.net/gh/rcyggdra/Shared-Font/21px/Mod/shared_font.bin)
-  * [SP]
-    * [cbf_std.bcfnt](https://cdn.jsdelivr.net/gh/rcyggdra/Shared-Font/21px/SP/cbf_std.bcfnt)
-    * [shared_font.bin](https://cdn.jsdelivr.net/gh/rcyggdra/Shared-Font/21px/SP/shared_font.bin)
-
-* [24px]
-  * [Mod]
-    * [cbf_std.bcfnt](https://cdn.jsdelivr.net/gh/rcyggdra/Shared-Font/24px/Mod/cbf_std.bcfnt)
-    * [shared_font.bin](https://cdn.jsdelivr.net/gh/rcyggdra/Shared-Font/24px/Mod/shared_font.bin)
-  * [SP]
-    * [cbf_std.bcfnt](https://cdn.jsdelivr.net/gh/rcyggdra/Shared-Font/24px/SP/cbf_std.bcfnt)
-    * [shared_font.bin](https://cdn.jsdelivr.net/gh/rcyggdra/Shared-Font/24px/SP/shared_font.bin)
