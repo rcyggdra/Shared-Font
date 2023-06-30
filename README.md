@@ -25,4 +25,4 @@ A Nintendo 3DS Shared Font
 
 - 字符缺失：不完全包含日版字库的汉字，所以日版游戏有可能会缺字（汉化版不影响）；繁中系统确定会缺字、eshop等未知
 
-- 适用环境：简中系统、ActionReplay插件可显示汉字；使用系统字库的汉化游戏；citra模拟器推荐使用
+- 适用环境：简中系统、ActionReplay插件可显示汉字（注：历史问题，Mod及SP字库不支持ActionReplay)；使用系统字库的汉化游戏；citra模拟器推荐使用
