@@ -20,4 +20,4 @@ Charset的行数大约为503行,故称之为５０３
 选择完后会自动替换字库，然后重启（reboot）3DS查看实际效果。
 
 # Citra下的ActionReplay效果
-![图示](/ActionReplay.png)
+![图示](/24px/ActionReplay/ActionReplay.png)
