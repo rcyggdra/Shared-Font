@@ -18,3 +18,6 @@ Charset的行数大约为503行,故称之为５０３
 
 按START+电源键进入中文系统替换工具，选择其他功能（Other Functions），选择更换字库（Fonts Change）,选择要更换的字库，如：“actionreplay_C”；
 选择完后会自动替换字库，然后重启（reboot）3DS查看实际效果。
+
+# Citra下的ActionReplay效果
+![图示](/ActionReplay.png)
